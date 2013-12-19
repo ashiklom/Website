@@ -1,0 +1,77 @@
+body {
+	font-size: 15px;
+	color: navy;
+	font-family: Georgia
+}
+
+h1 {
+	font-size: 2.4em;
+	color: yellow;
+	background-color: cyan;
+	font-family: "Trebuchet MS";
+	text-transform: uppercase;
+	text-align: center;
+	padding: 10px;
+	padding-color: red;
+	margin: 10px;
+	margin-color: navy;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: purple
+}
+
+h2 {
+	font-size: 1.8em;
+	background-color: grey;
+	margin: 15px;
+	padding: 20px;
+}
+
+h3 {
+	font-size: 1.5em;
+	margin: 10px;
+}
+
+em {
+	text-transform: uppercase;
+	color: orange;
+}
+
+a {
+	text-decoration: underline;
+}
+
+#yellowbox {
+	background-color: yellow;
+	padding: 10px;
+	font-size: 0.8em;
+}
+
+#bluebox {
+	background-color: blue;
+	padding: 10px
+}
+
+#bluebox p {
+	color: green
+}
+
+#bluebox form {
+	color: orange
+}
+p.big {
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+#bluebox a:visited {
+	font-size: 0.6em;
+}
+
+#bluebox a:link {
+	font-size: 1.1em;
+}
+
+#bluebox a:hover {
+	color: white;
+}
